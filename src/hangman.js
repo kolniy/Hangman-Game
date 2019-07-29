@@ -63,7 +63,7 @@ get statusMessage() {
 
 }
 
-
+export { Hangman as default }
 
 
 
